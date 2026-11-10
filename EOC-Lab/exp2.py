@@ -1,0 +1,5 @@
+name=input("enter your name:")
+age =input("enter ypur age:")
+print("student details")
+print("name:",name)
+print("age:,age)
